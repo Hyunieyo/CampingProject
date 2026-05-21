@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SH Camping | 캠핑 정보 탐색</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <aside class="sidebar" aria-label="주요 메뉴">
+        <a class="brand" href="#" data-view="search" aria-label="SH Camping 홈">
+          <span class="brand-mark">SH</span>
+          <div>
+            <strong>SH Camping</strong>
+            <small>camp discovery</small>
+          </div>
+        </a>
+
+        <nav class="nav">
+          <button class="active" type="button" data-view="search">
+            <span>01</span>
+            캠핑장 찾기
+          </button>
+          <button type="button" data-view="favorite">
+            <span>02</span>
+            찜한 캠핑장
+            <b id="favoriteCount">0</b>
+          </button>
+          <button type="button" data-view="compare">
+            <span>03</span>
+            캠핑장 비교
+            <b id="compareCount">0</b>
+          </button>
+          <button type="button" data-view="login">
+            <span>04</span>
+            <em id="loginMenuText">로그인</em>
+          </button>
+        </nav>
+
+        <div class="sidebar-note">
+          <p>오늘의 추천</p>
+          <strong>반려동물 동반 가능한 숲속 캠핑장</strong>
+        </div>
+      </aside>
+
+      <main class="main">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Camping Finder</p>
+            <h1 id="pageTitle">캠핑장 검색</h1>
+          </div>
+          <div class="user-chip" id="userChip">
+            <span></span>
+            <strong>Guest</strong>
+          </div>
+        </header>
+
+        <section class="hero">
+          <img src="assets/camp-hero.png" alt="산과 숲이 있는 캠핑 풍경" />
+          <div class="hero-copy">
+            <p>Fresh outdoor guide</p>
+            <h2>조건에 맞는 캠핑장을 빠르게 찾고 비교하세요</h2>
+          </div>
+          <div class="hero-stats" aria-label="요약 통계">
+            <span><strong id="totalCampCount">0</strong> 캠핑장</span>
+            <span><strong>4.8</strong> 평균 만족도</span>
+            <span><strong>21°C</strong> 추천 날씨</span>
+          </div>
+        </section>
+
+        <section class="view active" id="searchView" aria-label="캠핑장 검색">
+          <form class="search-panel" id="searchForm">
+            <label class="keyword-field">
+              <span>캠핑장 검색</span>
+              <input id="keywordInput" type="search" placeholder="캠핑장 이름, 지역, 시설을 검색하세요" />
+            </label>
+            <label>
+              <span>도/시</span>
+              <select id="regionSelect">
+                <option value="">전체 지역</option>
+                <option>강원</option>
+                <option>경기</option>
+                <option>충남</option>
+                <option>제주</option>
+              </select>
+            </label>
+            <label>
+              <span>캠핑 유형</span>
+              <select id="typeSelect">
+                <option value="">전체 유형</option>
+                <option>오토캠핑</option>
+                <option>글램핑</option>
+                <option>차박</option>
+                <option>백패킹</option>
+              </select>
+            </label>
+            <label class="pet-filter">
+              <input id="petOnly" type="checkbox" />
+              <span>반려동물 가능</span>
+            </label>
+            <button class="primary-button" type="submit">검색</button>
+          </form>
+
+          <div class="result-bar">
+            <strong id="resultCount">0</strong>
+            <span>개의 캠핑장이 검색되었습니다.</span>
+          </div>
+
+          <section class="camp-list" id="campList"></section>
+        </section>
+
+        <section class="view" id="favoriteView" aria-label="찜 목록">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Saved Camps</p>
+              <h2>찜 목록</h2>
+            </div>
+            <button class="soft-button" type="button" data-view="search">검색으로 돌아가기</button>
+          </div>
+          <section class="camp-list" id="favoriteList"></section>
+        </section>
+
+        <section class="view" id="compareView" aria-label="캠핑장 비교">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Compare</p>
+              <h2>캠핑장 비교</h2>
+            </div>
+            <button class="soft-button" type="button" data-view="search">캠핑장 선택 화면으로 돌아가기</button>
+          </div>
+          <div class="compare-summary">
+            <strong id="compareSummaryCount">0</strong>
+            <span>개를 선택했습니다. 주요 항목을 나란히 비교해보세요.</span>
+          </div>
+          <section class="compare-grid" id="compareGrid"></section>
+        </section>
+
+        <section class="view" id="loginView" aria-label="로그인">
+          <div class="login-card">
+            <div class="login-visual">
+              <img src="assets/camp-forest.png" alt="숲속 캠핑장" />
+            </div>
+            <form class="login-form" id="loginForm">
+              <p class="eyebrow">Welcome Back</p>
+              <h2>로그인</h2>
+              <label>
+                <span>아이디</span>
+                <input id="loginId" type="text" placeholder="아이디를 입력하세요" />
+              </label>
+              <label>
+                <span>비밀번호</span>
+                <input id="loginPw" type="password" placeholder="비밀번호를 입력하세요" />
+              </label>
+              <button class="primary-button full" type="submit">로그인</button>
+            </form>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <dialog class="detail-dialog" id="detailDialog">
+      <div class="detail-card" id="detailContent"></div>
+    </dialog>
+
+    <script src="script.js"></script>
+  </body>
+</html>

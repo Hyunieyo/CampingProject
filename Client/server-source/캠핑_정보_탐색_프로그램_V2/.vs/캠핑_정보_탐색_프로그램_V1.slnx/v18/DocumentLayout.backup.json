@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\services\\business\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\services\\business\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/BIT99_SQLEXPRESS/CampingDb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\models\\dto\\campdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\models\\dto\\campdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\controllers\\comparecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\controllers\\comparecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\models\\response\\compareresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\models\\response\\compareresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\services\\business\\campdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\services\\business\\campdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\services\\business\\campservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\services\\business\\campservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\services\\interface\\icampservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\services\\interface\\icampservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\repositories\\camprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\repositories\\camprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\repositories\\icamprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\repositories\\icamprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\controllers\\campcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\controllers\\campcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\repositories\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\repositories\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\repositories\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\repositories\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\services\\interface\\icampdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\services\\interface\\icampdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|c:\\users\\administrator\\documents\\codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\services\\utility\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9933710E-DF21-8153-315D-E58B0B6942C2}|\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.csproj|solutionrelative:\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_v1\\services\\utility\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\DTO\\UserDto.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:56:58.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Business\\UserService.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Business\\UserService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Business\\UserService.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Business\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:42:32.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:42:36.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Program.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Program.cs*",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Program.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwEcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:59:28.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\appsettings.json",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\appsettings.json*",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-18T12:26:56.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/BIT99_SQLEXPRESS/CampingDb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/BIT99_SQLEXPRESS/CampingDb/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-19T01:53:46.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CampDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\DTO\\CampDto.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\DTO\\CampDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\DTO\\CampDto.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\DTO\\CampDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:54:53.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:05:16.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\Entity\\User.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:42:23.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompareResult.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\Response\\CompareResult.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\Response\\CompareResult.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\Response\\CompareResult.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Models\\Response\\CompareResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:14:28.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CampDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Business\\CampDataService.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Business\\CampDataService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Business\\CampDataService.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Business\\CampDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:56:18.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompareController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\CompareController.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\CompareController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\CompareController.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\CompareController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:05:04.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CampService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Business\\CampService.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Business\\CampService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Business\\CampService.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Business\\CampService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:57:42.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CampRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\CampRepository.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\CampRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\CampRepository.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\CampRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwBQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:14:05.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICampRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\ICampRepository.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\ICampRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\ICampRepository.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\ICampRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:12:09.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICampService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Interface\\ICampService.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Interface\\ICampService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Interface\\ICampService.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Interface\\ICampService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:57:27.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CampController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\CampController.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\CampController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\CampController.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\CampController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:06:23.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:07:08.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\FavoriteRepository.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\FavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\FavoriteRepository.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\FavoriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:13:06.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IFavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\IFavoriteRepository.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\IFavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\IFavoriteRepository.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\IFavoriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:13:11.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:13:15.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FavoriteController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\FavoriteController.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\FavoriteController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\FavoriteController.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Controllers\\FavoriteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:05:14.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICampDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Interface\\ICampDataService.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Interface\\ICampDataService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Interface\\ICampDataService.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Interface\\ICampDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:02:02.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataCleaner.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Utility\\DataCleaner.cs",
+              "RelativeDocumentMoniker": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Utility\\DataCleaner.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-19\\files-mentioned-by-the-user-zip\\service\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V2\\\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Utility\\DataCleaner.cs",
+              "RelativeToolTip": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1\\Services\\Utility\\DataCleaner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:55:02.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

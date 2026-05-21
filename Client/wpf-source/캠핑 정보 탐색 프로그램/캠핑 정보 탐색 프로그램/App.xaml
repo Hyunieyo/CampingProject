@@ -1,0 +1,9 @@
+﻿<Application x:Class="캠핑_정보_탐색_프로그램.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:캠핑_정보_탐색_프로그램"
+             StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+        
+    </Application.Resources>
+</Application>

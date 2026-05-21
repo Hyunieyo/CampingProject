@@ -1,0 +1,6 @@
+@캠핑_정보_탐색_프로그램_V1_HostAddress = http://localhost:5187
+
+GET {{캠핑_정보_탐색_프로그램_V1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

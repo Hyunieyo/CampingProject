@@ -1,0 +1,78 @@
+﻿<Window x:Class="캠핑_정보_탐색_프로그램.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="캠핑 정보 탐색 프로그램"
+        Height="700"
+        Width="1200"
+        Background="#F5F1E8">
+
+    <Window.Resources>
+        <Style x:Key="MenuButtonStyle" TargetType="Button">
+            <Setter Property="Height" Value="44"/>
+            <Setter Property="Margin" Value="16,7"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="#3A5A40"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                CornerRadius="14">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="240"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Background="#1F3525"
+                CornerRadius="0,20,20,0">
+
+            <StackPanel Margin="0,30,0,0">
+
+                <TextBlock Text="🏕 SH Camping"
+                           FontSize="25"
+                           FontWeight="Bold"
+                           Foreground="White"
+                           Margin="24,0,0,30"/>
+
+                <Button Content="🔍 캠핑장 검색"
+                        Style="{StaticResource MenuButtonStyle}"
+                        Command="{Binding MoveSearchCommand}"/>
+
+                <Button Content="❤️ 찜 목록"
+                        Style="{StaticResource MenuButtonStyle}"
+                        Command="{Binding MoveFavoriteCommand}"/>
+
+                <Button Content="📊 비교하기"
+                        Style="{StaticResource MenuButtonStyle}"
+                        Command="{Binding MoveCompareCommand}"/>
+
+                <Button Content="{Binding LoginButtonText}"
+                        Style="{StaticResource MenuButtonStyle}"
+                        Command="{Binding LoginMenuCommand}"/>
+
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Column="1"
+                Background="#F5F1E8"
+                Padding="24">
+
+            <ContentControl Content="{Binding CurrentView}"/>
+
+        </Border>
+    </Grid>
+</Window>

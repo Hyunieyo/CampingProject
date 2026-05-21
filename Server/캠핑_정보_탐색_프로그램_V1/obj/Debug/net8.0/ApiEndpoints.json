@@ -1,0 +1,305 @@
+[
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.CampItemController",
+    "Method": "GetRecommendedChecklist",
+    "RelativePath": "api/CampItem/recommend",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "headCount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.CampController",
+    "Method": "GetAllCamps",
+    "RelativePath": "api/camps",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "numOfRows",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Models.DTO.CampDto, \uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.CampController",
+    "Method": "GetCampById",
+    "RelativePath": "api/camps/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Models.DTO.CampDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.CampController",
+    "Method": "GetCampsByFilter",
+    "RelativePath": "api/camps/filter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "location",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Models.DTO.CampDto, \uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.CampController",
+    "Method": "GetPopularCamps",
+    "RelativePath": "api/camps/popular",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Models.DTO.CampDto, \uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.CampController",
+    "Method": "SearchCamps",
+    "RelativePath": "api/camps/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "region",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "petOnly",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageNo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "numOfRows",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Models.DTO.CampDto, \uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.CompareController",
+    "Method": "CompareCamps",
+    "RelativePath": "api/compare",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "campsRequest",
+        "Type": "System.Collections.Generic.List\u00601[[\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Models.Entity.Camp, \uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.FavoriteController",
+    "Method": "AddFavorite",
+    "RelativePath": "api/favorites",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "favoriteRequest",
+        "Type": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Models.Entity.Favorite",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.FavoriteController",
+    "Method": "RemoveFavorite",
+    "RelativePath": "api/favorites",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "campId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.FavoriteController",
+    "Method": "GetMyFavorites",
+    "RelativePath": "api/favorites/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.SearchHistoryController",
+    "Method": "AddSearchHistory",
+    "RelativePath": "api/search-histories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.SearchHistoryController\u002BSearchHistoryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.SearchHistoryController",
+    "Method": "GetRecentSearchHistories",
+    "RelativePath": "api/search-histories/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.SearchHistoryController",
+    "Method": "DeleteSearchHistories",
+    "RelativePath": "api/search-histories/{userId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/users/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "\uCEA0\uD551_\uC815\uBCF4_\uD0D0\uC0C9_\uD504\uB85C\uADF8\uB7A8_V1.Models.DTO.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

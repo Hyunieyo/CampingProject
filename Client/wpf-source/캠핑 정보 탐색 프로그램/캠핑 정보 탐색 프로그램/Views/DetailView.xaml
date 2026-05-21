@@ -1,0 +1,118 @@
+﻿<UserControl x:Class="캠핑_정보_탐색_프로그램.Views.DetailView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Background="#F5F1E8">
+
+    <Grid Background="#F5F1E8"
+          HorizontalAlignment="Stretch"
+          VerticalAlignment="Stretch">
+
+        <ScrollViewer>
+
+            <StackPanel>
+
+                <!-- 제목 -->
+                <TextBlock Text="{Binding SelectedCamp.Name}"
+                           FontSize="30"
+                           FontWeight="Bold"
+                           Foreground="#1F3525"
+                           Margin="0,0,0,20"/>
+
+                <!-- 대표 이미지 -->
+                <Border Height="260"
+                        Background="#E5E5E5"
+                        CornerRadius="18">
+
+                    <TextBlock Text="캠핑장 대표 이미지"
+                               Foreground="#666"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Center"/>
+
+                </Border>
+
+                <!-- 정보 -->
+                <Border Background="White"
+                        CornerRadius="18"
+                        Padding="20"
+                        Margin="0,20,0,0">
+
+                    <StackPanel>
+
+                        <TextBlock Text="📍 주소"
+                                   FontWeight="Bold"
+                                   FontSize="17"/>
+
+                        <TextBlock Text="{Binding SelectedCamp.Address}"
+                                   Margin="0,8,0,15"
+                                   FontSize="15"/>
+
+                        <TextBlock Text="📞 전화번호"
+                                   FontWeight="Bold"
+                                   FontSize="17"/>
+
+                        <TextBlock Text="{Binding SelectedCamp.Tel}"
+                                   Margin="0,8,0,15"
+                                   FontSize="15"/>
+
+                        <TextBlock Text="🏕 시설 정보"
+                                   FontWeight="Bold"
+                                   FontSize="17"/>
+
+                        <TextBlock Text="{Binding SelectedCamp.FacilityInfo}"
+                                   Margin="0,8,0,15"
+                                   FontSize="15"
+                                   TextWrapping="Wrap"/>
+
+                        <TextBlock Text="🌐 홈페이지"
+                                   FontWeight="Bold"
+                                   FontSize="17"/>
+
+                        <TextBlock Text="{Binding SelectedCamp.Homepage}"
+                                   Margin="0,8,0,15"
+                                   FontSize="15"
+                                   Foreground="Blue"/>
+
+                        <CheckBox Content="반려동물 가능"
+                                  IsChecked="{Binding SelectedCamp.PetAllowed}"
+                                  IsEnabled="False"
+                                  FontSize="15"
+                                  Margin="0,10,0,0"/>
+
+                    </StackPanel>
+
+                </Border>
+
+                <!-- 버튼 -->
+                <StackPanel Orientation="Horizontal"
+                            HorizontalAlignment="Right"
+                            Margin="0,20,0,0">
+
+                    <Button Content="❤️ 찜하기"
+                            Width="120"
+                            Height="38"
+                            Margin="0,0,10,0"
+                            Background="#D97B66"
+                            Foreground="White"
+                            BorderThickness="0"
+                            FontWeight="Bold"
+                            Command="{Binding FavoriteCommand}"
+                            CommandParameter="{Binding SelectedCamp}"/>
+
+                    <Button Content="📊 비교하기"
+                            Width="120"
+                            Height="38"
+                            Background="#4F6D7A"
+                            Foreground="White"
+                            BorderThickness="0"
+                            FontWeight="Bold"
+                            Command="{Binding AddCompareCommand}"
+                            CommandParameter="{Binding SelectedCamp}"/>
+
+                </StackPanel>
+
+            </StackPanel>
+
+        </ScrollViewer>
+
+    </Grid>
+</UserControl>
