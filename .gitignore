@@ -1,0 +1,36 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vsconfig
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# User secrets / sensitive config
+appsettings.Development.json
+# appsettings.json은 포함하되, 실제 키는 플레이스홀더로 관리
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Rider
+.idea/
